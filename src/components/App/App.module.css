@@ -1,0 +1,13 @@
+.onlineMessage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-color: #e25050;
+    width: 100%;
+}
